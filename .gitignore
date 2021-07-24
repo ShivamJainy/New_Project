@@ -1,0 +1,4 @@
+Password.txt
+
+# means Comment
+# *.txt means all txt files get ignored 
